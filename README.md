@@ -2,6 +2,6 @@ Desenvolvi um sistema de avaliação para uma escola. Um professor só pode atri
 
 Criei uma classe chamada Avaliacao com:
 
-Uma propriedade pública Aluno.
-Uma propriedade Nota, com get público e set privado.
-Um método público AtribuirNota(double nota) que só permita valores entre 0 e 10. Se o valor for inválido, exiba uma mensagem de erro.
+- Uma propriedade pública Aluno.
+- Uma propriedade Nota, com get público e set privado.
+- Um método público AtribuirNota(double nota) que só permita valores entre 0 e 10. Se o valor for inválido, exiba uma mensagem de erro.
